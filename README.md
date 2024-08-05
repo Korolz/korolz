@@ -25,12 +25,6 @@ Graduated from BMSTU as a bioengineer -> Decided to try my hand at programming -
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/korolz"><img src="https://github-readme-stats.vercel.app/api?username=korolz&show_icons=true&hide=issues,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&show_icons=true" alt="korolz's GitHub stats" /></a>
-
-<a href="https://github.com/korolz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=korolz&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/korolz/ROCKETBOT-Java-Discord-music-bot" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=korolz&repo=ROCKETBOT-Java-Discord-music-bot&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
