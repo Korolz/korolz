@@ -4,7 +4,7 @@ Hi 👋 My name is Roman Korolev
 Web and Mobile developer
 ------------------------
 
-Graduated from BMSTU as a bioengineer -> Decided to try my hand at programming -> Liked it -> Started with Java -> Wrote pet projects -> Studied other languages -> Enjoying backend and mobile development -> Planning to master frontend someday🤓
+Graduated from BMSTU as an engineer of biomedical systems -> Decided to try my hand at programming -> Liked it -> Started with Java -> Wrote pet projects -> Studied other languages -> Enjoying backend and mobile development -> Planning to master frontend someday🤓
 
 * 🖥️  See my portfolio at [this site](http://korolz.github.io)
 * ✉️  You can contact me at [korolevrs1219@gmail.com](mailto:korolevrs1219@gmail.com)
